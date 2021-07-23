@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "ekaeka.client.service-url.defaultZone",
+  "type": "java.lang.String",
+  "description": "A description for 'ekaeka.client.service-url.defaultZone'"
+}]}
